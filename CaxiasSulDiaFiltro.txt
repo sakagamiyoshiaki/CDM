@@ -1,4 +1,4 @@
-,Precipitacao,Temp Comp Media,TempMaxima,TempMinima,Umidade Relativa Media
+Data,Precipitacao,Temp Comp Media,TempMaxima,TempMinima,Umidade Relativa Media
 1961-01-01,0.0,22.16,27.0,17.4,80.0
 1961-01-02,0.8,24.0,31.2,18.2,66.25
 1961-01-03,0.0,21.88,28.6,19.6,84.25
