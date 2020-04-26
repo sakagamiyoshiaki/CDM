@@ -1,4 +1,4 @@
-ID,ano,mes,dia,Precipitacao,Temp Comp Media,TempMaxima,TempMinima,Umidade Relativa Media
+ID,ano,mes,dia,Precipitacao,TempMedia,TempMaxima,TempMinima,URMedia
 0,1961.0,1.0,1.0,0.0,22.16,27.0,17.4,80.0
 1,1961.0,1.0,2.0,0.8,24.0,31.2,18.2,66.25
 2,1961.0,1.0,3.0,0.0,21.88,28.6,19.6,84.25
